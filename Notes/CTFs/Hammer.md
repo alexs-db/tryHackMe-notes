@@ -1,4 +1,4 @@
-# Hammer CTF
+# Hammer CTF Room
 
 Cliquez sur ce lien où tout est bien expliqué : 
 
