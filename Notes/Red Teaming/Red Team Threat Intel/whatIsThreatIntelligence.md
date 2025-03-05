@@ -1,0 +1,7 @@
+Expanding upon task 1, Cyber Threat Intelligence (CTI) can be consumed (to take action upon data) by collecting Indicators of Compromise (IOCs) and Tactics, Techniques, and Procedures (TTPs) commonly distributed and maintained by Information Sharing and Analysis Centers (ISACs). Intelligence platforms and frameworks also aid in the consumption of CTI, primarily focusing on an overarching timeline of all activities.
+
+> **Note:** The term ISAC is used loosely in the threat intelligence landscape and often refers to a threat intelligence platform.
+
+Traditionally, defenders use threat intelligence to provide context to the ever-changing threat landscape and quantify findings. IOCs are quantified by traces left by adversaries such as domains, IPs, files, strings, etc. The blue team can utilize various IOCs to build detections and analyze behavior. From a red team perspective, you can think of threat intelligence as the red team's analysis of the blue team's ability to properly leverage CTI for detections.
+
+In this room, we will be focusing on Advanced Persistent Threat (APT) activity and how to leverage their documented TTPs. The next task will detail the specifics of threat intelligence and its significance to the red team.
