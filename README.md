@@ -1,4 +1,4 @@
-# 📚 Notes & GitHub Challenges  
+# 📚 Notes & TryHackMe Challenges  
 
 This repository contains my course notes and solutions to TryHackMe challenges.  
 
