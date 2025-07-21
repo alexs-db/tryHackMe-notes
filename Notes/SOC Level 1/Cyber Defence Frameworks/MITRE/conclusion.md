@@ -1,0 +1,5 @@
+## Conclusion
+
+In this room, we explored the tools and resources provided by MITRE to the security community. The goal was to introduce you to these resources and give you foundational knowledge of their uses. Many security product vendors and security teams worldwide consider MITRE's contributions invaluable in their daily efforts to thwart threats. The more information we have as defenders, the better equipped we are to fight back. If you are looking to transition into roles such as SOC analyst, detection engineer, or cyber threat analyst, these tools and resources are essential to know.
+
+However, these resources are not only for defenders. As red teamers, your objective is to mimic adversaries and attempt to bypass the controls in place within an environment. With these resources, you can effectively emulate real-world adversaries and communicate your findings in a common language that both defenders and attackers understand. In essence, this collaborative approach is known as **purple teaming**.
